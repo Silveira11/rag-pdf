@@ -1,6 +1,6 @@
 # RAG PDF - Assistente de Documentos Fiscais
 
-Sistema de perguntas e respostas sobre documentos PDF da área fiscal usando IA local com Ollama.
+Sistema de perguntas e respostas sobre a área fiscal usando IA local com Ollama.
 
 ## Funcionalidades
 
